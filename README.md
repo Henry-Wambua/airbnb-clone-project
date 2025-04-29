@@ -1,4 +1,4 @@
-**ABOUT THE PROJECT**
+"About the project"
 This is project is developed to simulate real world application of a robust booking system just like AirBnB. It encompasess backend systems, database design, Modern and efficient API dvelopments and the appplication security. 
 The sets of technologies stacked together to build the entire booking system include:
   1.Django
@@ -6,7 +6,7 @@ The sets of technologies stacked together to build the entire booking system inc
   3.GraphQL
   4.Docker
 
-**TEAM ROLES**
+"Team Roles"
 1. _Business Analyst_: Bridges the gap between the stakeholders of the product and the development team. BA transalates the stakeholders' needs into requirements that the development team can work on.
 
 2. _Product Owners_: Takes the responsiblity of the product's success. Definifion of the business strategy that shapes up the product vision all lies on their hands.
