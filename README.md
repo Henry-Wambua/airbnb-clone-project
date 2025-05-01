@@ -1,4 +1,5 @@
 "About the project"
+
 This is project is developed to simulate real world application of a robust booking system just like AirBnB. It encompasess backend systems, database design, Modern and efficient API dvelopments and the appplication security. 
 The sets of technologies stacked together to build the entire booking system include:
   1.Django
@@ -37,3 +38,22 @@ The sets of technologies stacked together to build the entire booking system inc
 5. GitHub Actions: CI/CD platform that allows users to automate, customize and execute software development workflows.
 
 6. MySQL: A relational database management system.
+
+"Database Design"
+1. User: Two types of users(Guest and Host). The fields include username, userID, contact info(most probably email), login password.
+A user can have multiple listings and bookings.
+
+2. Listing: Name of the property, location of the property, price rate, availability, capacity of accomodation.
+A listing can have multiple bookings.
+
+3. Booking: Check In, Check Out, type of accomodation booked, method of payment, total price, time stamp, status of Booking.
+Booking links a user with one listing.
+
+4. Review: Comment, rating, listing, timestamp
+A review collects information from the user.
+Different guest may give multiple reviews to one listing.
+
+5. Payment: Method of payment, currency, payment time stamp, amount paid, property paid for, customer ID.
+Payment confirms the booking of a user to a property.
+
+
