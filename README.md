@@ -7,6 +7,7 @@ The sets of technologies stacked together to build the entire booking system inc
   3.GraphQL
   4.Docker
 
+
 "Team Roles"
 1. _Business Analyst_: Bridges the gap between the stakeholders of the product and the development team. BA transalates the stakeholders' needs into requirements that the development team can work on.
 
@@ -39,6 +40,7 @@ The sets of technologies stacked together to build the entire booking system inc
 
 6. MySQL: A relational database management system.
 
+
 "Database Design"
 1. User: Two types of users(Guest and Host). The fields include username, userID, contact info(most probably email), login password.
 A user can have multiple listings and bookings.
@@ -55,5 +57,17 @@ Different guest may give multiple reviews to one listing.
 
 5. Payment: Method of payment, currency, payment time stamp, amount paid, property paid for, customer ID.
 Payment confirms the booking of a user to a property.
+
+
+"Feature Breakdown"
+1. User/Account Management: Login credentials, profile setup, pasword reset
+
+2. Property Management: Add descriptions, set time availablity, create/edit property listings.
+
+3. Booking System and Browsing: Recommendations, Search listings by name, location, prices, availablity or amenities offered.
+
+4. Payment: Offer secure payment integration via different platforms(e.g debit/credit)
+
+5. Admin Office: Management of listings, users and bookings. Handling of disruptions and complaints. 
 
 
