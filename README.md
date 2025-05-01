@@ -23,3 +23,17 @@ The sets of technologies stacked together to build the entire booking system inc
 8. _Backend Engineer_: Implementing the core of the product development, that is the infastructure and logic.
 
 9. Frontend Engineer: Developing the interface which the user of the product interacts with.
+
+
+“Technology Stack”
+1. Django: This is a web framework based on the python langauage that assist in building secure and scalable websites much faster.
+
+2. PostgreSQL: An open source database system used to store and query data using SQL
+
+3. GraphQL: A query language for API that uses a type system defined by the developer.
+
+4. Docker: A tool used to package development, testing and deployment tools in standardized units called containers.
+
+5. GitHub Actions: CI/CD platform that allows users to automate, customize and execute software development workflows.
+
+6. MySQL: A relational database management system.
