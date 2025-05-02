@@ -71,3 +71,12 @@ Payment confirms the booking of a user to a property.
 5. Admin Office: Management of listings, users and bookings. Handling of disruptions and complaints. 
 
 
+"API Security"
+1. Authentication and Authorization: Ensures the users with the right pass can access data such as logging into an account to make a booking.
+
+2. Input validation: Scrutinizing user input to prevent entry ofmalicious data
+
+3. Rate limiting and Throtting: Protection from malicious traffic by limiting the number of inputs a user can make in a certain period. An example is allowing only 5 login attempts per minute.
+
+4. Logging and monitoring: Monitoring the frequency of API requests to spot unusual activity such who booked, when was the booking/payment made.
+
