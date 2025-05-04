@@ -15,7 +15,7 @@ The sets of technologies stacked together to build the entire booking system inc
 
 3. _Product Manager_: Ensures the success is delivered as desired in due time and within the designated budget.
 
-4._ UI/UX Designers_: Maps out the user journey for the best customer experience.
+4.__ UI/UX Designers__: Maps out the user journey for the best customer experience.
 
 5. _Software Architect_: Lays out the blueprint for the actual development of the prokduct. this ranges from the selection of appropriate tools and platforms to implement the product vision. Also sets out the code standards and performance reviews.
 
