@@ -80,3 +80,16 @@ Payment confirms the booking of a user to a property.
 
 4. Logging and monitoring: Monitoring the frequency of API requests to spot unusual activity such who booked, when was the booking/payment made.
 
+
+“CI/CD Pipeline”
+This is a set of automated processess used in the development of applications to build, test and deploy code changes efficiently and reliable.
+1. Github Actions: Used everytime a code change is pushed to Github to automatically run tests, build app and deploy to server.
+
+3. Jenkins: A tool with built in CI/CD to automate building, testing, and deploying code. Also, the developer has full control.
+
+4. Postman: A tool used in testing the functionality of APIs.
+
+5. Docker: An open source platform that allows developers to package their applications and all dependancies in a unit (container) with the aim of consistency across different environments.
+
+6. Kubenetes: An open source platform used for container orchestration.
+That is it assist in managing, scaling and autmating the deployment of container applications.   
